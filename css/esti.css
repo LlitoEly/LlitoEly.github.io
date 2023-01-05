@@ -1,0 +1,31 @@
+.logo{
+    height: 100px;
+    width: 150px;
+
+    -webkit-transition: all ls ease;
+    -moz-transition: all ls case;
+    -o-transition: all ls ease;
+}
+
+.logo:hover{
+    height: 50px;
+    width: 0px;
+    margin-left: 100px;
+}
+
+.logo1{
+    height: 20px;
+    width: 30px;
+    margin-top: -25px;
+    margin-left: 50px;
+    -webkit-transition: all ls ease;
+    -moz-transition: all ls case;
+    -o-transition: all ls ease;
+}
+
+.logo1:hover:hover{
+    height: 100px;
+    width: 100px;
+    margin-left: 100px;
+}
+
